@@ -1,2 +1,2 @@
 # JAVASCRIPT
-projects in javasript
+arquivos úteis em javascript
